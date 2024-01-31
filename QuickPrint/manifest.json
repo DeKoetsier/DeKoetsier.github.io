@@ -1,0 +1,13 @@
+{
+  "name": "QuickPrint",
+  "platform": "HTML",
+  "version": "2.29",
+  "wabVersion": "2.29",
+  "author": "Persa K.",
+  "description": "This is the widget to generate a quick map",
+  "copyright": "",
+  "license": "http://www.apache.org/licenses/LICENSE-2.0",
+  "properties": {
+    "hasConfig": false
+  }
+}
