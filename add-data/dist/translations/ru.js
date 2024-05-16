@@ -1,1 +1,0 @@
-System.register([],(function(e){return{execute:function(){e({wayOfAddingData:"Способ добавления данных",selectFromAccount:"Выбрать из учетной записи",inputUrl:"Входная URL",uploadFiles:"Загрузить файлы",emptyListMessage:"Сообщение о пустом списке",defaultPlaceholderText:"В настоящее время добавленных данных нет.",curateACollection:"Курировать коллекцию"})}}}));
