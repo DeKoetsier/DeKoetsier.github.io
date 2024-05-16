@@ -1,0 +1,1 @@
+System.register([],(function(e){return{execute:function(){e({wayOfAddingData:"Modalitate de adăugare a datelor",selectFromAccount:"Selectare din cont",inputUrl:"Introducere URL",uploadFiles:"Încărcare fișiere",emptyListMessage:"Golire listă de mesaje",defaultPlaceholderText:"Momentan nu există date adăugate.",curateACollection:"Administrarea unei colecții"})}}}));

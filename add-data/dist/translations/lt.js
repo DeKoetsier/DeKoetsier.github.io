@@ -1,0 +1,1 @@
+System.register([],(function(e){return{execute:function(){e({wayOfAddingData:"Būdas pridėti duomenis",selectFromAccount:"Pasirinkti iš paskyros",inputUrl:"Įvesti URL",uploadFiles:"Įkelti failus",emptyListMessage:"Tuščio sąrašo pranešimas",defaultPlaceholderText:"Šiuo metu nėra pridėtų duomenų.",curateACollection:"Kuruoti rinkinį"})}}}));

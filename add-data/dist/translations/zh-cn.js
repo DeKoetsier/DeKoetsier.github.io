@@ -1,0 +1,1 @@
+System.register([],(function(e){return{execute:function(){e({wayOfAddingData:"添加数据的方式",selectFromAccount:"从帐户中选择",inputUrl:"输入 URL",uploadFiles:"上传文件",emptyListMessage:"空列表消息",defaultPlaceholderText:"目前未添加任何数据。",curateACollection:"精选集合"})}}}));

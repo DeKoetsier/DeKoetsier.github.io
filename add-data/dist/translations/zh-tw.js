@@ -1,0 +1,1 @@
+System.register([],(function(e){return{execute:function(){e({wayOfAddingData:"新增資料的方式",selectFromAccount:"從帳戶選擇",inputUrl:"輸入 URL",uploadFiles:"上傳檔案",emptyListMessage:"空白清單訊息",defaultPlaceholderText:"目前沒有新增的資料。",curateACollection:"策劃集合"})}}}));
