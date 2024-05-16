@@ -1,0 +1,1 @@
+System.register([],(function(e){return{execute:function(){e({wayOfAddingData:"Methode zum Hinzufügen von Daten",selectFromAccount:"Aus Konto auswählen",inputUrl:"Eingabe-URL",uploadFiles:"Dateien hochladen",emptyListMessage:"Meldung über leere Liste",defaultPlaceholderText:"Derzeit liegen keine hinzugefügten Daten vor.",curateACollection:"Sammlung kuratieren"})}}}));

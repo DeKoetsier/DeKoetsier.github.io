@@ -1,0 +1,1 @@
+System.register([],(function(t){return{execute:function(){t({wayOfAddingData:"Miként adathatók hozzá az adatok?",selectFromAccount:"Fiókból kiválasztva",inputUrl:"URL-importálásával",uploadFiles:"Fájlfeltöltéssel",emptyListMessage:"Üres üzenetlista",defaultPlaceholderText:"Jelenleg nincs hozzáadott adat",curateACollection:"Gyűjtemény összeállítása"})}}}));

@@ -1,0 +1,1 @@
+System.register([],(function(e){return{execute:function(){e({wayOfAddingData:"Aineiston lisäystapa",selectFromAccount:"Valitse tilistä",inputUrl:"Lähtöaineiston URL-osoite",uploadFiles:"Lataa tiedostoja palveluun",emptyListMessage:"Tyhjä luetteloviesti",defaultPlaceholderText:"Lisättyä aineistoa ei ole tällä hetkellä.",curateACollection:"Järjestele kokoelma"})}}}));

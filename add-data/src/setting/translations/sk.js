@@ -1,0 +1,1 @@
+System.register([],(function(e){return{execute:function(){e({wayOfAddingData:"Spôsob pridávania dát",selectFromAccount:"Vybrať z účtu",inputUrl:"Vstupná URL adresa",uploadFiles:"Nahrať súbory",emptyListMessage:"Správa o prázdnom zozname",defaultPlaceholderText:"Aktuálne nie sú k dispozícii žiadne pridané dáta.",curateACollection:"Zostaviť kolekciu"})}}}));

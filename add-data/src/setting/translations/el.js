@@ -1,0 +1,1 @@
+System.register([],(function(e){return{execute:function(){e({wayOfAddingData:"Τρόπος προσθήκης δεδομένων",selectFromAccount:"Επιλογή από λογαριασμό",inputUrl:"Διεύθυνση URL εισόδου",uploadFiles:"Μεταφόρτωση αρχείων",emptyListMessage:"Άδειασμα λίστας μηνυμάτων",defaultPlaceholderText:"Προς το παρόν δεν προστέθηκαν δεδομένα.",curateACollection:"Επιμέλεια συλλογής"})}}}));

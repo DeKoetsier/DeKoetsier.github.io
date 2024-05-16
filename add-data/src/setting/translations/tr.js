@@ -1,0 +1,1 @@
+System.register([],(function(e){return{execute:function(){e({wayOfAddingData:"Veri ekleme yolu",selectFromAccount:"Hesaptan seç",inputUrl:"Girdi URL’si",uploadFiles:"Dosyaları yükle",emptyListMessage:"Liste mesajını boşalt",defaultPlaceholderText:"Şu anda eklenmiş veri yok.",curateACollection:"Bir koleksiyon oluşturun"})}}}));

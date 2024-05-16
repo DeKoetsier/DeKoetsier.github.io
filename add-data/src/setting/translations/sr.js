@@ -1,0 +1,1 @@
+System.register([],(function(e){return{execute:function(){e({wayOfAddingData:"Način dodavanja podataka",selectFromAccount:"Izaberite sa naloga",inputUrl:"Ulazni URL",uploadFiles:"Otpremi datoteke",emptyListMessage:"Isprazni listu poruka",defaultPlaceholderText:"Trenutno nema dodatih podataka.",curateACollection:"Odredite kolekciju"})}}}));

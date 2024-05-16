@@ -1,0 +1,1 @@
+System.register([],(function(e){return{execute:function(){e({wayOfAddingData:"Metode til at tilføje data",selectFromAccount:"Vælg fra konto",inputUrl:"Input-URL",uploadFiles:"Upload filer",emptyListMessage:"Tom liste-meddelelse",defaultPlaceholderText:"Der findes ingen tilføjede data på nuværende tidspunkt.",curateACollection:"Vedligehold en samling"})}}}));
