@@ -1,0 +1,1 @@
+System.register([],(function(e){return{execute:function(){e({wayOfAddingData:"データの追加方法",selectFromAccount:"アカウントから選択",inputUrl:"URL を入力",uploadFiles:"ファイルをアップロード",emptyListMessage:"空のリスト メッセージ",defaultPlaceholderText:"現在、追加されているデータはありません。",curateACollection:"コレクションの管理"})}}}));

@@ -1,0 +1,1 @@
+System.register([],(function(e){return{execute:function(){e({wayOfAddingData:"Datu pievienošanas veids",selectFromAccount:"Izvēlēties no konta",inputUrl:"Ievades URL",uploadFiles:"Augšupielādēt failus",emptyListMessage:"Tukšs saraksta ziņojums",defaultPlaceholderText:"Pašlaik nav pievienotu datu.",curateACollection:"Pārraudzīt kolekciju"})}}}));

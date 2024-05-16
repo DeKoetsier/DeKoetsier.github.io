@@ -1,0 +1,1 @@
+System.register([],(function(e){return{execute:function(){e({wayOfAddingData:"Спосіб додавання даних",selectFromAccount:"Вибрати з облікового запису",inputUrl:"Введіть URL",uploadFiles:"Передати файли",emptyListMessage:"Пусте повідомлення списку",defaultPlaceholderText:"Наразі немає доданих даних.",curateACollection:"Курируйте колекцію"})}}}));

@@ -1,0 +1,1 @@
+System.register([],(function(e){return{execute:function(){e({wayOfAddingData:"طريقة إضافة البيانات",selectFromAccount:"تحديد من الحساب",inputUrl:"عنوان URL المُدخل",uploadFiles:"تحميل ملفات",emptyListMessage:"رسالة قائمة فارغة",defaultPlaceholderText:"لا توجد أي بيانات مضافة حاليًا.",curateACollection:"تنظيم مجموعة"})}}}));
