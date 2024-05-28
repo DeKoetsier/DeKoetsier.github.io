@@ -128,7 +128,7 @@ async function handlePrintInfo (printInfo) {
 
 function getDefaultPrintTemplateItem (layout: string) {
   const isMapOnly = checkIsMapOnly(layout)
-  const otherOption = isMapOnly ? { } : { layoutOptions: { legend: false } }
+  const otherOption = isMapOnly ? { } : { layoutOptions: { legend: true } }
   return {
     label: layout,
     layout: layout,
