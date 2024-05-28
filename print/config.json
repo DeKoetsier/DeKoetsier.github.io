@@ -5,7 +5,7 @@
  "commonSetting": {
    "scalePreserved": false,
    "layoutOptions": {
-     "titleText": "ArcGIS Web Map"
+     "titleText": "Voeg een titel toe"
     },
     "outScale": 36978595.474472,
    "exportOptions": {
