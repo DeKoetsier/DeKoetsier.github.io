@@ -38,8 +38,7 @@ define(["dojo/_base/declare",
     util, SearchPane, AddFromUrlPane, AddFromFilePane, LayerListPane, array) {
     return declare([BaseWidget, _WidgetsInTemplateMixin], {
 
-      name: "AddData",
-      baseClass: "jimu-widget-add-data",
+      baseClass: "jimu-widget-AddData",
 
       batchGeocoderServers: null,
       isPortal: false,
