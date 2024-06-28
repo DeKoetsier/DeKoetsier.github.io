@@ -5,7 +5,7 @@
   "version": "2.29",
   "wabVersion": "2.29",
   "author": "Esri",
-  "description": "",
+  "description": "Add data with more than 1000 records",
   "copyright": "",
   "license": "http://www.apache.org/licenses/LICENSE-2.0",
   "properties": {
