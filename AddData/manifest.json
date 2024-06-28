@@ -1,5 +1,6 @@
 {
   "name": "AddData",
+  "type": "widget",
   "platform": "HTML",
   "version": "2.29",
   "wabVersion": "2.29",
