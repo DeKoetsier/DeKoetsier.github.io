@@ -1,1 +1,0 @@
-System.register([],(function(e){return{execute:function(){e({wayOfAddingData:"Andmete lisamise viis",selectFromAccount:"Vali kontolt",inputUrl:"Sisesta URL",uploadFiles:"Laadi failid üles",emptyListMessage:"Tühja loendi teade",defaultPlaceholderText:"Lisatud andmeid praegu pole.",curateACollection:"Halda kogu"})}}}));

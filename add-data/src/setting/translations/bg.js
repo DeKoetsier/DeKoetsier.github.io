@@ -1,1 +1,0 @@
-System.register([],(function(e){return{execute:function(){e({wayOfAddingData:"Начин за добавяне на данни",selectFromAccount:"Избор от акаунт",inputUrl:"Въведете URL",uploadFiles:"Качване на файлове",emptyListMessage:"Съобщение за празен списък",defaultPlaceholderText:"В момента няма добавени данни.",curateACollection:"Създаване на колекция"})}}}));
