@@ -1,8 +1,8 @@
 {
   "name": "QuickPrint",
   "platform": "HTML",
-  "version": "2.29",
-  "wabVersion": "2.29",
+  "version": "2.30",
+  "wabVersion": "2.30",
   "author": "Persa K.",
   "description": "This is the widget to generate a quick map",
   "copyright": "",
