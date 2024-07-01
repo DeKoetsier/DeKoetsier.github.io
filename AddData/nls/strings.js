@@ -1,6 +1,6 @@
 define({
   root: ({
-    _widgetLabel: "Add Data",
+    _widgetLabel: "AddData",
 
     noOptionsConfigured: "No options were configured.",
 
