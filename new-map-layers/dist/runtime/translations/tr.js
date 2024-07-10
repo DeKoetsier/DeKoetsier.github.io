@@ -1,1 +1,0 @@
-System.register([],(function(a){return{execute:function(){a({_widgetLabel:"Harita Katmanları",goto:"Yakınlaştır",information:"Detaylar",increaseOpacity:"Opaklığı artır",decreaseOpacity:"Opaklığı azalt",increaseTransparency:"Şeffaflığı artır",decreaseTransparency:"Şeffaflığı azalt",showLabels:"Etiketleri göster",hideLabels:"Etiketleri gizle"})}}}));
